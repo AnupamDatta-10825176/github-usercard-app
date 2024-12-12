@@ -1,3 +1,7 @@
+## Github UserCard App
+
+This will search for the first matched username from the github api and show the details like Username, Profile picture and company.
+
 ## Available Scripts
 
 In the project directory, you can run:
