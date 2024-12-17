@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = document.getElementById('root');
 render(
   <React.StrictMode>
-    <App title="The GitHub Cards App"/>
+    <App title="The Star Match Game"/>
   </React.StrictMode>,
   root
 );
